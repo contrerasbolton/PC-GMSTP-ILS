@@ -34,5 +34,5 @@ Give an example
 ```
 
 ## License
-The programme is distributed under the GNU General Public License, version 3.
+The program is distributed under the GNU General Public License, version 3.
 See the `LICENSE` file.
